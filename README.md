@@ -1,1 +1,1 @@
-# django-postgresql-config
+# Django postgresql config
